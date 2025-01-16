@@ -23,19 +23,3 @@ Feel free to explore my repositories, projects, and contributions. Don't forget 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Neovim](https://img.shields.io/badge/neovim-white?logo=neovim)
 
-
-## 📈 GitHub Stats
-
-[![Phuc Mai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hauphanlvc&count_private=true&show_icons=true&theme=radical)](https://github.com/hauphanlvc)
-
-## 📊 My Top Languages
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hauphanlvc&layout=compact&theme=radical)](https://github.com/hauphanlvc)
-
-## 📈 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=phuc-mai&color=brightgreen)
-
-Thanks for stopping by! 😊✨
-
-Happy Coding! 🚀
