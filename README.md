@@ -1,6 +1,6 @@
 # Hau Phan Trong's GitHub Profile 🚀
 
-Welcome to my GitHub playground! 👋 I'm Hau Phan Trong, a DevOps engineer, and try to become a full-stack developer who makes everything helpful.
+Welcome to my GitHub playground! 👋 I'm Hau Phan Trong, a DevOps engineer, and try to become a backend developer who makes everything helpful.
 Feel free to explore my repositories, projects, and contributions. Don't forget to star your favorites! ⭐️
 
 ## 🚀 Quick Overview
